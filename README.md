@@ -40,6 +40,15 @@ e entre na consulta — tudo sem sair do app.
 
 ---
 
+## 🔗 Preview
+
+Escaneie o QR Code abaixo para acessar a demonstração ao vivo:
+
+<img width="450" height="450" alt="image" src="https://github.com/user-attachments/assets/ab5e8bd6-3c9f-4f38-b341-5bba99f95da2" />
+
+
+---
+
 ## 🚀 Instruções de Uso
 
 ### Pré-requisitos
