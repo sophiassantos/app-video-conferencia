@@ -38,13 +38,6 @@ e entre na consulta — tudo sem sair do app.
 <img width="1056" height="1408" alt="image" src="https://github.com/user-attachments/assets/d30dcf46-37b2-4851-ab88-32a772efc949" />
 <img width="1056" height="1408" alt="image" src="https://github.com/user-attachments/assets/fec6b832-9632-46b1-a2c4-423374bbb59c" />
 
-
-
-| [ Splash Screen ] | [ Lista de Veterinários ] |
-|---|---|
-| [ Agendamento de Consulta ] | [ Tela de Pagamento ] |
-| [ Videoconferência Jitsi ] | [ Chat durante a consulta ] |
-
 ---
 
 ## 🚀 Instruções de Uso
